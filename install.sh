@@ -856,7 +856,7 @@ menu_termux() {
     Set_dns
     ;;
   7)
-    Installation_dependency
+    check_arch && Installation_dependency
     ;;  
   8)
     Set_apt_source
