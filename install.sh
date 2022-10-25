@@ -856,7 +856,7 @@ menu_termux() {
     Set_dns
     ;;
   7)
-    Download_zhenxun_bot
+    Installation_dependency
     ;;  
   8)
     Set_apt_source
